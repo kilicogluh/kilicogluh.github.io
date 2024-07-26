@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-05-07 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our team (UIUC_BioNLP) took the first place (overall) in the [BioLaySumm 2024](https://biolaysumm.org/) shared task on the lay summarization of biomedical research articles. Congratulations to Jerome You, Shruthan Radhakrishna, and Shufan Ming!
