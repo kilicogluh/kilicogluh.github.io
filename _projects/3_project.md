@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Tagger
 description: publication type and study design tagging
-img: assets/img/RCT_check.jpg
+img: assets/img/rct_check.jpg
 importance: 1
 category: work
 related_publications: false
