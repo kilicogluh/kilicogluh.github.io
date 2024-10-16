@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ''[Text classification models for assessing the completeness of randomized controlled trial publications based on CONSORT reporting guidelines](https://doi.org/10.1038/s41598-024-72130-7)” led by Lan Jiang, Colby J Vorland, and Xiangji Ying has been published in Scientific Reports!
+Our paper ''[Text classification models for assessing the completeness of randomized controlled trial publications based on CONSORT reporting guidelines](https://doi.org/10.1038/s41598-024-72130-7)” led by Lan Jiang has been published in Scientific Reports!
