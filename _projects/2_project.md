@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Citation Integrity
-description: NLP for citation accuracy analysis
+title: SR-Harms
+description: harms reporting in systematic reviews
 img: assets/img/rct_check.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-<b>Project Title:</b> Natural Language Processing to Assess and Improve Citation Integrity in Biomedical Publications<br>
-<b>Funding</b>: HHS Office of Research Integrity (ORI) (ORIIR220073) <br>
-<b>Project Period</b>: 2022-2024<br>
-<b>Role</b>: PI<br>
+<b>Project Title:</b> Improving Results and Conclusions about Harms in Systematic Reviews of Drugs<br>
+<b>Funding</b>: Agency for Health Research Quality (<a href="https://reporter.nih.gov/search/CUrvF8wydEaPadt4gpzU8Q/project-details/11048663">R01HS029877</a>)<br>
+<b>Project Period</b>: 2042-2029<br>
+<b>Role</b>: MPI; <a href="https://evanmayo-wilson.org">Evan Mayo-Wilson</a>, UNC (PI) <br>
 
-Trustworthy science is crucial to scientific progress, evidence-based policies, and human health. Citations play a fundamental role in diffusion of scientific knowledge and research assessment; yet their role in research integrity is often overlooked. Citation inaccuracies (e.g., citation of non-existent findings) undermine the integrity of the biomedical literature, distorting the perception of available evidence with potentially serious consequences for human health. A recent meta-analysis showed that 25.4% of medical articles contained a citation error. The objective of this project is to develop scalable natural language processing (NLP) and artificial intelligence (AI) algorithms to automatically assess biomedical publications for citation content accuracy. The resulting models can be embedded in practical software tools. With these new tools, authors will be able to improve their citation quality; journals and peer reviewers will be able to scrutinize questionable citation practices pre-publication; and research administrators, research integrity officers, funders, and policymakers will be able to investigate citation practices, integrity issues, and knowledge diffusion via citations. 
+Systematic reviews (SRs) of healthcare interventions should identify patient safety concerns; however, many SRs are designed to assess benefits, and preliminary evidence suggests that conclusions about harms in SRs might not be trustworthy. Using >19,000 SRs of drugs for which we have full texts (including >4,000 overlapping reviews), and using innovative methods for analysis (e.g., natural language processing), we will examine whether information about safety in SRs is consistent, whether SRs address safety concerns identified using real-world evidence, and whether SRs are consistent with safety information on drug labels. Based on best evidence, including findings from this study, we will develop contemporary guidance for synthesizing and reporting safety information in SRs. <br>

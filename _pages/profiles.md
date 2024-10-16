@@ -1,28 +1,54 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
-nav_order: 7
+permalink: /lab/
+title: lab
+description: members of the scienceNLP lab
+nav: true
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: lanjiang.jpg
+    content: about_lanjiang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Lan Jiang</p><br>
+      <p>PhD candidate, iSchool</p>
+  - align: left
+    image: mengfei.png
+    content: about_mengfeilan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mengfei Lan</p><br>
+      <p>PhD candidate, iSchool</p>
+  - align: left
+    image: shufanming2.jpg
+    content: about_shufanming.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shufan Ming</p><br>
+      <p>PhD candidate, iSchool</p>
+  - align: left
+    image: hong.jpg
+    content: about_gibonghong.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Gibong Hong</p><br>
+      <p>PhD candidate, iSchool</p>
+  - align: left
+    image: guerra.jpg
+    content: about_guerra.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Evan Guerra</p><br>
+      <p>PhD candidate, iSchool</p>
+  - align: left
+    image: menke.jpg
+    content: about_menke.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Joe Menke</p><br>
+      <p>PhD candidate, iSchool</p>
 ---
