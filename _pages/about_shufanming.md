@@ -1,0 +1,1 @@
+My research focuses on biomedical natural language processing, specifically by integrating external knowledge into large language models to enhance their performance in tasks such as relation extraction and automatic text summarization. <br>

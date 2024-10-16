@@ -1,0 +1,1 @@
+My long-term research goal is to improve the efficacy and efficiency of biomedical research, largely through natural language processing (NLP) applications. My current work focuses on (1) improving reporting quality and transparency within randomized controlled trials and (2) effectively automating publication type and study design indexing for research articles.
