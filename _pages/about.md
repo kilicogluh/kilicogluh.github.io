@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>614 E Daniel Street #5109</p>
-    <p>Champaign, IL, 61821</p>
+    <p>Champaign, IL, 61820</p>
 
 news: true  # includes a list of news items
 posts: false
