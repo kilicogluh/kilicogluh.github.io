@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-30 15:59:00-0400
+date: 2025-05-04 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our 5-year R01 project ''[Improving Results and Conclusions about Harms in Systematic Reviews of Drugs](https://reporter.nih.gov/search/Zw7ERNE3nkutfVHDmIri2g/project-details/11048663)'' has been funded by AHRQ! 
+Congratulations to Shufan Ming for presenting her paper "[Towards Knowledge-Guided Biomedical Lay Summarization using Large Language Models](https://doi.org/10.18653/v1/2025.cl4health-1.24)" at CL4Health workshop @ NAACL 2025!
