@@ -1,10 +1,8 @@
 ---
 layout: post
-#title: A long announcement with details
-date: 2025-03-27 16:11:00-0400
+date: 2025-05-04 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper ''[DiMB-RE: mining the scientific literature for diet-microbiome associations](https://doi.org/10.1093/jamia/ocaf054)” led by Gibong Hong has been published in JAMIA!
-
+Congratulations to Shufan Ming for presenting her paper "[Towards Knowledge-Guided Biomedical Lay Summarization using Large Language Models](https://doi.org/10.18653/v1/2025.cl4health-1.24)" at CL4Health workshop @ NAACL 2025!

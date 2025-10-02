@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2025-02-28 07:59:00-0400
+#title: A long announcement with details
+date: 2025-03-27 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper ''[SPIRIT-CONSORT-TM: a corpus for assessing transparency of clinical trial protocol and results publications](https://doi.org/10.1038/s41597-025-04629-1)” led by Lan Jiang, Colby J Vorland, and Xiangji Ying has been published in Scientific Data!
+Our paper ''[DiMB-RE: mining the scientific literature for diet-microbiome associations](https://doi.org/10.1093/jamia/ocaf054)” led by Gibong Hong has been published in JAMIA!
+

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-04 15:59:00-0400
+date: 2025-09-05 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Congratulations to Shufan Ming for presenting her paper "[Towards Knowledge-Guided Biomedical Lay Summarization using Large Language Models](https://doi.org/10.18653/v1/2025.cl4health-1.24)" at CL4Health workshop @ NAACL 2025!
+Congratulations to Janina Sarol and Lan Jiang for oral presentations and Joe Menke for poster presentation on  "[citation quotation errors](https://peerreviewcongress.org/abstract/leveraging-large-language-models-for-detecting-citation-quotation-errors-in-biomedical-literature/)", "[reporting guideline adherence]("[citation quotation errors](https://peerreviewcongress.org/abstract/leveraging-large-language-models-for-detecting-citation-quotation-errors-in-biomedical-literature/)", and on "[self-acknowledged limitations](https://peerreviewcongress.org/abstract/a-comparison-of-self-acknowledged-limitations-with-risk-of-bias-assessments-from-systematic-reviews/) at the Peer Review Congress!
