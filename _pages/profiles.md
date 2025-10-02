@@ -66,7 +66,7 @@ profiles:
       <p>Yikun Han</p><br>
       <p>PhD student,  Information Science</p>
   - align: left
-    image: shiweiliu.jpg
+    image: shiwei.jpeg
     content: about_shiweiliu.md
     image_circular: false # crops the image to make it circular
     more_info: >
