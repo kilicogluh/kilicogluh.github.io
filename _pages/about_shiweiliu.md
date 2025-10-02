@@ -1,0 +1,1 @@
+I am interested in developing NLP methods to extract and evaluate information from scientific literature. My current focus is automated assessment of randomized controlled trial (RCT) reporting compliance and building tools that support evidence retrieval and synthesis for systematic reviews.
