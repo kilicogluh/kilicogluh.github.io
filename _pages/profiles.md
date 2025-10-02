@@ -58,4 +58,11 @@ profiles:
     more_info: >
       <p>Joe Menke</p><br>
       <p>PhD student,  Information Science</p>
+  - align: left
+    image: yikunhan.jpg
+    content: about_yikunhan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yikun Han</p><br>
+      <p>PhD student,  Information Science</p>
 ---
