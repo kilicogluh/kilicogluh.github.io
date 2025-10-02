@@ -1,1 +1,1 @@
-I am a second year PhD student interested in using NLP methods to further our understanding of smell and taste. I have worked on classification of taste language in Amazon food reviews, biomedical named entity recognition, and evaluating LLMs on smell taste and nutrition tasks.
+I am a third year PhD student interested in using NLP methods to further our understanding of smell and taste. I have worked on classification of taste language in Amazon food reviews, biomedical named entity recognition, and evaluating LLMs on smell taste and nutrition tasks.
